@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * main - print last digits in random number
+ *
+ * Description: prints last digits in random number
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

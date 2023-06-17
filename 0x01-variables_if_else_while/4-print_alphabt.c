@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - prints the letters of the alphabet
+ *
+ * Description: prints the letters of the alphabet except e, q
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int i = 97;

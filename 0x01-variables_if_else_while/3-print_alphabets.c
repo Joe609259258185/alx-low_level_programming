@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - print the letters of the alphabet
+ *
+ * Description: prints the letters of the alphabets in lower then in uppercase
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - prints single digit numbers
+ *
+ * Descriptions: prints single digit numbers
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int i;

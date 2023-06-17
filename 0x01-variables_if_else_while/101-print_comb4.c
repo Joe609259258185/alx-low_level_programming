@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - print triples combos
+ *
+ * Description: prints triple digit combos
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

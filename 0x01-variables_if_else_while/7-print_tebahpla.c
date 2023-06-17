@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - prints the letters of the alphabet
+ *
+ * Descriptions: print the letters of the alphabet in reverse
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int i = 122;

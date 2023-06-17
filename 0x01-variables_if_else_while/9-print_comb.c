@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - print single digit numbers
+ *
+ * Descriptions: print single digit numbers with commas
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int i;
