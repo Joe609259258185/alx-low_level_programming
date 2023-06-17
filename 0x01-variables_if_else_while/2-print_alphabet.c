@@ -2,7 +2,9 @@
 
 /**
  * main - print the letters of the alphabet
+ *
  * Descriptions: prints the letters of the alphabet
+ *
  * Return: Always 0 Success
  */
 
