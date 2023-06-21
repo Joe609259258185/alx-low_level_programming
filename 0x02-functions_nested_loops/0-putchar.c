@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - prints _putchar
- *
- * Description: prints _putchar
- *
- * Return: 0 (Success)
- */
+*main - prints _putchar as a message
+*
+*Description:  _putchar using putchar prototype
+*
+* Return :  0  when success
+*/
 
 int main(void)
 {
