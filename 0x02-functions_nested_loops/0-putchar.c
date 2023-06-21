@@ -1,13 +1,11 @@
 #include "main.h"
-
-/**
-*main - prints _putchar as a message
+/*
+* main - prints _putchar as a message
 *
-*Description:  _putchar using putchar prototype
+* Description:  _putchar using putchar prototype
 *
 * Return :  0  when success
 */
-
 int main(void)
 {
 	char text[10] = "_putchar";
